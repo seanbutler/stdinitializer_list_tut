@@ -1,13 +1,5 @@
 # stdinitializer_list_tut
 
----
-layout: post
-title:  "std::intitializer_list in c++"
-date:   2021-06-23 09:00:00 -0100
-keywords: a minor part of modern c++
----
-
-
 <em>td;dr: quick example of std::initializer_list and what you might use it for.</em>
 
 
